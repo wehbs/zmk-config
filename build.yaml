@@ -19,3 +19,6 @@
 ---
 include:
   - board: bakeneko60_go
+    snippet: studio-rpc-usb-uart  # <--- Essential for USB Studio connection
+    cmake-args: -DCONFIG_ZMK_STUDIO=y  # <--- Enables the Studio software
+    artifact-name: bakeneko60_go_studio
