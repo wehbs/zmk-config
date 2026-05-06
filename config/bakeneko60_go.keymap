@@ -21,7 +21,7 @@
         PW2: PW2 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp N9 &kp P &kp I &kp AMPS &kp AT &kp K &kp PRCNT &kp LS(B) &kp STAR &kp X &kp N0 &kp LS(P) &kp F &kp J &kp AMPS &kp LS(Y) &kp LS(V) &kp N4 &kp N8 &kp LS(D) &kp RET>;
+            bindings = <&none &kp P &kp PRCNT &kp C &kp L &kp O &kp LS(U) &kp N4 &kp O &kp N &kp R &kp N2 &kp D &kp LS(X) &kp O &kp N8 &kp N5 &kp B &kp PRCNT &kp LS(B) &kp C &kp RET>;
             label = "PW2";
         };
     };
